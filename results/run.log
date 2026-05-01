@@ -1,0 +1,963 @@
+Launching 960 calls across 24 models...
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  0 | other_action | rt=    0 ot=   13 | $0.0005
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  4 | other_action | rt=   48 ot=   62 | $0.0020
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   12 | $0.0005
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  2 | other_action | rt=   47 ot=   61 | $0.0020
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  6 | other_action | rt=   56 ot=   75 | $0.0024
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  8 | other_action | rt=   48 ot=   62 | $0.0020
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  9 | other_action | rt=   55 ot=   80 | $0.0025
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  0 | other_action | rt=   83 ot=   97 | $0.0030
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  3 | other_action | rt=   45 ot=   64 | $0.0021
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  1 | other_action | rt=   70 ot=   86 | $0.0027
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  5 | other_action | rt=   55 ot=   74 | $0.0024
+  [+] GPT-5.5 (xhigh)                | normal | default       | run  7 | other_action | rt=   56 ot=   76 | $0.0024
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   12 | $0.0005
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   14 | $0.0006
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  4 | other_action | rt=    0 ot=   31 | $0.0011
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  5 | no_action    | rt=    0 ot=   15 | $0.0006
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  7 | no_action    | rt=    0 ot=   12 | $0.0005
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   13 | $0.0005
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=   19 | $0.0007
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  0 | other_action | rt=   36 ot=   68 | $0.0022
+  [+] GPT-5.5 (xhigh)                | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   27 | $0.0009
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  2 | other_action | rt=   23 ot=   42 | $0.0015
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  4 | other_action | rt=   33 ot=   52 | $0.0018
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  0 | no_action    | rt=    0 ot=   19 | $0.0008
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  5 | other_action | rt=   65 ot=   87 | $0.0028
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   27 | $0.0010
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   30 | $0.0011
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  1 | other_action | rt=   41 ot=   61 | $0.0020
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  3 | other_action | rt=   69 ot=   87 | $0.0028
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   29 | $0.0011
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   25 | $0.0009
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   27 | $0.0010
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  8 | other_action | rt=   66 ot=   86 | $0.0028
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  7 | other_action | rt=   95 ot=  115 | $0.0036
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  6 | other_action | rt=   74 ot=   97 | $0.0031
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=   18 | $0.0007
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   29 | $0.0011
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   29 | $0.0011
+  [+] GPT-5.5 (xhigh)                | strict | reasoning_off | run  9 | other_action | rt=    0 ot=   30 | $0.0011
+  [+] GPT-5.5 (xhigh)                | strict | default       | run  9 | other_action | rt=   75 ot=   95 | $0.0030
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  1 | other_action | rt=    0 ot=   21 | $0.0004
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  6 | other_action | rt=  112 ot=  133 | $0.0021
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  0 | other_action | rt=  131 ot=  149 | $0.0023
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  3 | other_action | rt=   63 ot=   79 | $0.0013
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   27 | $0.0005
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  4 | other_action | rt=  103 ot=  117 | $0.0018
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  5 | other_action | rt=   84 ot=  110 | $0.0017
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  7 | other_action | rt=   91 ot=  117 | $0.0018
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  2 | other_action | rt=  147 ot=  168 | $0.0026
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   20 | $0.0004
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  8 | other_action | rt=  169 ot=  191 | $0.0029
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=   21 | $0.0004
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  1 | other_action | rt=  162 ot=  175 | $0.0027
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   20 | $0.0004
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  5 | other_action | rt=    0 ot=   20 | $0.0004
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   28 | $0.0005
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  7 | no_action    | rt=    0 ot=   26 | $0.0005
+  [+] GPT-5.4 (xhigh)                | normal | default       | run  9 | other_action | rt=  143 ot=  165 | $0.0025
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   21 | $0.0004
+  [+] GPT-5.4 (xhigh)                | normal | reasoning_off | run  8 | no_action    | rt=    0 ot=   21 | $0.0004
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  0 | other_action | rt=    0 ot=   22 | $0.0004
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   25 | $0.0005
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  1 | other_action | rt=   54 ot=   73 | $0.0012
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  3 | other_action | rt=   86 ot=  112 | $0.0018
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  0 | other_action | rt=   78 ot=  108 | $0.0017
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  2 | other_action | rt=  134 ot=  157 | $0.0025
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   24 | $0.0005
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  4 | other_action | rt=  100 ot=  114 | $0.0018
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   25 | $0.0005
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  7 | other_action | rt=   90 ot=  108 | $0.0017
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   26 | $0.0005
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  8 | other_action | rt=   80 ot=  101 | $0.0016
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   16 | $0.0003
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  6 | other_action | rt=  148 ot=  170 | $0.0026
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   20 | $0.0004
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  5 | other_action | rt=  156 ot=  185 | $0.0029
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   25 | $0.0005
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  7 | other_action | rt=    0 ot=   28 | $0.0005
+  [+] GPT-5.4 (xhigh)                | strict | default       | run  9 | other_action | rt=  160 ot=  179 | $0.0028
+  [+] GPT-5.4 (xhigh)                | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=   18 | $0.0004
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   39 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  4 | no_action    | rt=  114 ot=  144 | $0.0007
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  0 | other_action | rt=   93 ot=  120 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  5 | other_action | rt=  100 ot=  123 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  3 | other_action | rt=  100 ot=  133 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  1 | other_action | rt=  114 ot=  137 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  7 | other_action | rt=   67 ot=   85 | $0.0004
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  2 | no_action    | rt=  111 ot=  132 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  8 | other_action | rt=   86 ot=  102 | $0.0005
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  6 | other_action | rt=  132 ot=  148 | $0.0007
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   28 | $0.0001
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   34 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   16 | $0.0001
+  [+] GPT-5.4 mini (xhigh)           | normal | default       | run  9 | other_action | rt=  130 ot=  149 | $0.0007
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=   45 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  5 | no_action    | rt=    0 ot=   46 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   27 | $0.0001
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  7 | no_action    | rt=    0 ot=   31 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  8 | no_action    | rt=    0 ot=   31 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=   28 | $0.0001
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  0 | no_action    | rt=    0 ot=   29 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  0 | other_action | rt=  118 ot=  144 | $0.0007
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  4 | other_action | rt=   80 ot=   96 | $0.0005
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  7 | other_action | rt=   82 ot=  100 | $0.0005
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  9 | other_action | rt=   95 ot=  120 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  1 | other_action | rt=   91 ot=  121 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  2 | other_action | rt=  252 ot=  276 | $0.0013
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  6 | other_action | rt=  102 ot=  125 | $0.0006
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   27 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  8 | other_action | rt=   64 ot=   83 | $0.0004
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  3 | other_action | rt=  135 ot=  156 | $0.0007
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   29 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | default       | run  5 | other_action | rt=  178 ot=  208 | $0.0010
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=   38 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   30 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   30 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=   32 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  7 | other_action | rt=    0 ot=   32 | $0.0002
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=   26 | $0.0001
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | normal | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] GPT-5.4 mini (xhigh)           | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   34 | $0.0002
+  [+] gpt-oss-20B (high)             | normal | default       | run  1 | other_action | rt=  400 ot=  396 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  6 | other_action | rt=  361 ot=  344 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  0 | pressed      | rt= 1053 ot=  990 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  8 | pressed      | rt=  779 ot=  725 | $0.0001
+  [+] gpt-oss-20B (high)             | strict | default       | run  1 | other_action | rt=  351 ot=  368 | $0.0001
+  [+] gpt-oss-20B (high)             | strict | default       | run  4 | no_action    | rt=  838 ot=  788 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  2 | other_action | rt=  290 ot=  360 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  5 | no_action    | rt=  733 ot=  668 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | default       | run  0 | no_action    | rt=    0 ot=  200 | $0.0001
+  [+] gpt-oss-20B (high)             | strict | default       | run  6 | no_action    | rt=  622 ot=  566 | $0.0001
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [+] gpt-oss-120B (high)            | normal | default       | run  1 | other_action | rt=    0 ot=  227 | $0.0001
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] gpt-oss-20B (high)             | strict | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] gpt-oss-20B (high)             | strict | default       | run  3 | no_action    | rt=  675 ot=  637 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  4 | other_action | rt= 1041 ot=  972 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | default       | run  2 | other_action | rt=    0 ot=  133 | $0.0001
+  [+] gpt-oss-20B (high)             | strict | default       | run  5 | other_action | rt=  987 ot=  891 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | default       | run  3 | no_action    | rt=    0 ot=  279 | $0.0002
+  [+] gpt-oss-120B (high)            | normal | default       | run  4 | no_action    | rt=    0 ot=  232 | $0.0002
+  [+] gpt-oss-120B (high)            | normal | default       | run  7 | no_action    | rt=    0 ot=  285 | $0.0002
+  [+] gpt-oss-20B (high)             | strict | default       | run  8 | no_action    | rt=  655 ot=  615 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  9 | no_action    | rt= 1226 ot= 1119 | $0.0002
+  [+] gpt-oss-120B (high)            | normal | default       | run  5 | other_action | rt=    0 ot=  281 | $0.0002
+  [+] gpt-oss-120B (high)            | normal | default       | run  6 | no_action    | rt=    0 ot=  314 | $0.0002
+  [+] gpt-oss-20B (high)             | strict | default       | run  9 | other_action | rt=  545 ot=  508 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | default       | run  8 | no_action    | rt=    0 ot=  256 | $0.0002
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   40 | $0.0000
+  [+] gpt-oss-20B (high)             | strict | default       | run  7 | no_action    | rt=  946 ot=  873 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   99 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   41 | $0.0000
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  2 | no_action    | rt=    0 ot=   84 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | default       | run  9 | no_action    | rt=    0 ot=  292 | $0.0002
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=   65 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  6 | no_action    | rt=    0 ot=   39 | $0.0000
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   98 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  7 | other_action | rt=    0 ot=   64 | $0.0001
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  5 | other_action | rt=    0 ot=  118 | $0.0001
+  [+] gpt-oss-20B (high)             | normal | default       | run  3 | no_action    | rt= 1725 ot= 1584 | $0.0002
+  [+] gpt-oss-120B (high)            | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=   79 | $0.0001
+  [+] gpt-oss-120B (high)            | strict | default       | run  0 | no_action    | rt=    0 ot=  237 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | default       | run  4 | no_action    | rt=    0 ot=  251 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | default       | run  1 | other_action | rt=    0 ot=  321 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | default       | run  3 | no_action    | rt=    0 ot=  233 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | default       | run  2 | no_action    | rt=    0 ot=  234 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | default       | run  5 | no_action    | rt=    0 ot=  145 | $0.0001
+  [+] gpt-oss-20B (high)             | strict | default       | run  0 | other_action | rt= 1431 ot= 1299 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  0 | no_action    | rt=    0 ot=   45 | $0.0000
+  [+] gpt-oss-120B (high)            | strict | default       | run  7 | no_action    | rt=    0 ot=  235 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | default       | run  6 | other_action | rt=    0 ot=  258 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | default       | run  8 | no_action    | rt=    0 ot=  187 | $0.0001
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=  128 | $0.0001
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  0 | other_action | rt=    0 ot=  100 | $0.0027
+  [+] gpt-oss-120B (high)            | strict | default       | run  9 | no_action    | rt=    0 ot=  295 | $0.0002
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  2 | no_action    | rt=    0 ot=   89 | $0.0001
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  1 | other_action | rt=    0 ot=  120 | $0.0032
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  3 | other_action | rt=    0 ot=  151 | $0.0040
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=   71 | $0.0001
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  4 | no_action    | rt=    0 ot=  107 | $0.0029
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  2 | no_action    | rt=    0 ot=  117 | $0.0031
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  6 | other_action | rt=    0 ot=  112 | $0.0030
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  5 | no_action    | rt=    0 ot=   63 | $0.0001
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  6 | no_action    | rt=    0 ot=   75 | $0.0001
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  5 | other_action | rt=    0 ot=  169 | $0.0044
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  4 | no_action    | rt=    0 ot=   87 | $0.0001
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  7 | other_action | rt=    0 ot=   73 | $0.0020
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=   68 | $0.0001
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=   90 | $0.0001
+  [+] gpt-oss-120B (high)            | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=   56 | $0.0000
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  8 | other_action | rt=    0 ot=  122 | $0.0032
+  [+] Claude Opus 4.7 (max)          | normal | default       | run  9 | no_action    | rt=    0 ot=  120 | $0.0032
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  5 | other_action | rt=    0 ot=  114 | $0.0030
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  3 | other_action | rt=    0 ot=  108 | $0.0029
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  2 | no_action    | rt=    0 ot=  152 | $0.0040
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=  194 | $0.0050
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=  195 | $0.0051
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  4 | other_action | rt=    0 ot=  194 | $0.0050
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  6 | other_action | rt=    0 ot=  193 | $0.0050
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  7 | pressed      | rt=    0 ot=  178 | $0.0046
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=  194 | $0.0050
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  1 | no_action    | rt=    0 ot=  101 | $0.0028
+  [+] Claude Opus 4.7 (max)          | normal | reasoning_off | run  8 | other_action | rt=    0 ot=  213 | $0.0055
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  3 | no_action    | rt=    0 ot=   90 | $0.0025
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  0 | other_action | rt=    0 ot=   74 | $0.0021
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  2 | no_action    | rt=    0 ot=  127 | $0.0034
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  5 | no_action    | rt=    0 ot=  101 | $0.0028
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  6 | no_action    | rt=    0 ot=   61 | $0.0018
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  7 | no_action    | rt=    0 ot=   87 | $0.0024
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  4 | other_action | rt=    0 ot=   96 | $0.0027
+  [+] gpt-oss-20B (high)             | strict | default       | run  2 | other_action | rt=  549 ot=  557 | $0.0001
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  8 | other_action | rt=    0 ot=   72 | $0.0021
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=   79 | $0.0023
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  0 | other_action | rt=    0 ot=  114 | $0.0031
+  [+] Claude Opus 4.7 (max)          | strict | default       | run  9 | other_action | rt=    0 ot=   83 | $0.0024
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  2 | no_action    | rt=    0 ot=   95 | $0.0027
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  6 | no_action    | rt=    0 ot=  134 | $0.0036
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  4 | no_action    | rt=    0 ot=  152 | $0.0041
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  3 | other_action | rt=    0 ot=  136 | $0.0037
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  5 | other_action | rt=    0 ot=  164 | $0.0044
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  7 | other_action | rt=    0 ot=  177 | $0.0047
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  9 | other_action | rt=    0 ot=  127 | $0.0034
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  0 | other_action | rt=   76 ot=  105 | $0.0017
+  [+] Claude Opus 4.7 (max)          | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=  224 | $0.0059
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  3 | other_action | rt=   51 ot=   83 | $0.0013
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  5 | other_action | rt=   36 ot=   91 | $0.0015
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  4 | other_action | rt=   37 ot=  143 | $0.0022
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  7 | other_action | rt=   41 ot=   85 | $0.0014
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  6 | other_action | rt=   38 ot=  106 | $0.0017
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  1 | other_action | rt=   58 ot=  160 | $0.0025
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  2 | other_action | rt=   84 ot=  160 | $0.0025
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  0 | other_action | rt=    0 ot=   35 | $0.0006
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  8 | other_action | rt=   51 ot=  102 | $0.0016
+  [+] Claude Sonnet 4.6 (max)        | normal | default       | run  9 | other_action | rt=   52 ot=   84 | $0.0014
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  1 | other_action | rt=    0 ot=   63 | $0.0010
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   64 | $0.0011
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  5 | other_action | rt=    0 ot=   27 | $0.0005
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   48 | $0.0008
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   38 | $0.0007
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  4 | other_action | rt=    0 ot=   62 | $0.0010
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   69 | $0.0011
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  7 | other_action | rt=    0 ot=   79 | $0.0013
+  [+] Claude Sonnet 4.6 (max)        | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   57 | $0.0009
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  0 | other_action | rt=   36 ot=  102 | $0.0017
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  4 | other_action | rt=   46 ot=  106 | $0.0017
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  5 | other_action | rt=   51 ot=  106 | $0.0017
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  2 | other_action | rt=   78 ot=  139 | $0.0022
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  3 | other_action | rt=   75 ot=  145 | $0.0023
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  1 | other_action | rt=   91 ot=  189 | $0.0030
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  8 | other_action | rt=   38 ot=  115 | $0.0019
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  6 | other_action | rt=   83 ot=  155 | $0.0025
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  7 | other_action | rt=   48 ot=  142 | $0.0023
+  [+] Claude Sonnet 4.6 (max)        | strict | default       | run  9 | other_action | rt=   40 ot=  158 | $0.0025
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   99 | $0.0016
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  0 | other_action | rt=    0 ot=  121 | $0.0019
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   93 | $0.0015
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   72 | $0.0012
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   94 | $0.0015
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   90 | $0.0015
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   60 | $0.0010
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   99 | $0.0016
+  [+] Claude Haiku 4.5               | normal | default       | run  0 | no_action    | rt=    0 ot=  109 | $0.0006
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  9 | other_action | rt=    0 ot=   61 | $0.0010
+  [+] Claude Haiku 4.5               | normal | default       | run  1 | no_action    | rt=    0 ot=  157 | $0.0008
+  [+] Claude Haiku 4.5               | normal | default       | run  2 | no_action    | rt=    0 ot=   81 | $0.0004
+  [+] Claude Sonnet 4.6 (max)        | strict | reasoning_off | run  7 | other_action | rt=    0 ot=  111 | $0.0018
+  [+] Claude Haiku 4.5               | normal | default       | run  3 | no_action    | rt=    0 ot=   77 | $0.0004
+  [+] Claude Haiku 4.5               | normal | default       | run  6 | other_action | rt=    0 ot=  112 | $0.0006
+  [+] Claude Haiku 4.5               | normal | default       | run  4 | no_action    | rt=    0 ot=  212 | $0.0011
+  [+] Claude Haiku 4.5               | normal | default       | run  5 | no_action    | rt=    0 ot=  164 | $0.0009
+  [+] Claude Haiku 4.5               | normal | default       | run  7 | no_action    | rt=    0 ot=  153 | $0.0008
+  [+] Claude Haiku 4.5               | normal | default       | run  9 | other_action | rt=    0 ot=  169 | $0.0009
+  [+] Claude Haiku 4.5               | normal | default       | run  8 | no_action    | rt=    0 ot=  145 | $0.0008
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  0 | other_action | rt=    0 ot=   75 | $0.0004
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   91 | $0.0005
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=  137 | $0.0007
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  4 | other_action | rt=    0 ot=  137 | $0.0007
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  2 | other_action | rt=    0 ot=  131 | $0.0007
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  6 | no_action    | rt=    0 ot=  110 | $0.0006
+  [+] gpt-oss-20B (high)             | normal | default       | run  7 | no_action    | rt= 1275 ot= 1169 | $0.0002
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  7 | other_action | rt=    0 ot=  150 | $0.0008
+  [+] Claude Haiku 4.5               | strict | default       | run  1 | no_action    | rt=    0 ot=   80 | $0.0004
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  5 | no_action    | rt=    0 ot=  192 | $0.0010
+  [+] Claude Haiku 4.5               | strict | default       | run  0 | other_action | rt=    0 ot=  130 | $0.0007
+  [+] Claude Haiku 4.5               | strict | default       | run  2 | other_action | rt=    0 ot=  144 | $0.0008
+  [+] Claude Haiku 4.5               | strict | default       | run  4 | no_action    | rt=    0 ot=   86 | $0.0005
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=  126 | $0.0007
+  [+] Claude Haiku 4.5               | normal | reasoning_off | run  8 | other_action | rt=    0 ot=  173 | $0.0009
+  [+] Claude Haiku 4.5               | strict | default       | run  3 | other_action | rt=    0 ot=  152 | $0.0008
+  [+] Claude Haiku 4.5               | strict | default       | run  5 | no_action    | rt=    0 ot=  122 | $0.0007
+  [+] Claude Haiku 4.5               | strict | default       | run  7 | other_action | rt=    0 ot=  134 | $0.0007
+  [+] Claude Haiku 4.5               | strict | default       | run  6 | other_action | rt=    0 ot=  173 | $0.0009
+  [+] Claude Haiku 4.5               | strict | default       | run  9 | other_action | rt=    0 ot=  150 | $0.0008
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  0 | no_action    | rt=    0 ot=  136 | $0.0007
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=  154 | $0.0008
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  5 | other_action | rt=    0 ot=  145 | $0.0008
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  4 | other_action | rt=    0 ot=  125 | $0.0007
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  2 | other_action | rt=    0 ot=  126 | $0.0007
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  6 | no_action    | rt=    0 ot=  138 | $0.0007
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  3 | other_action | rt=    0 ot=  151 | $0.0008
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=  121 | $0.0006
+  [+] Claude Haiku 4.5               | strict | default       | run  8 | other_action | rt=    0 ot=  172 | $0.0009
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  8 | other_action | rt=    0 ot=  100 | $0.0005
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | normal | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] Claude Haiku 4.5               | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=  201 | $0.0010
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  4 | other_action | rt=  324 ot=  333 | $0.0040
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  6 | other_action | rt=  279 ot=  287 | $0.0035
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  3 | other_action | rt=  368 ot=  377 | $0.0046
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  1 | other_action | rt=  311 ot=  321 | $0.0039
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  9 | pressed      | rt=  435 ot=  474 | $0.0057
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  0 | other_action | rt=  461 ot=  497 | $0.0060
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  8 | other_action | rt=  569 ot=  578 | $0.0070
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  5 | other_action | rt=  436 ot=  449 | $0.0054
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  0 | other_action | rt=  331 ot=  367 | $0.0045
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  2 | other_action | rt=  426 ot=  438 | $0.0053
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Gemini 3.1 Pro Preview         | strict | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] Gemini 3.1 Pro Preview         | normal | default       | run  7 | other_action | rt=  427 ot=  446 | $0.0054
+  [+] Gemini 3 Flash                 | normal | default       | run  0 | other_action | rt=    0 ot=   12 | $0.0000
+  [+] Gemini 3 Flash                 | normal | default       | run  1 | other_action | rt=    0 ot=   17 | $0.0001
+  [+] Gemini 3 Flash                 | normal | default       | run  2 | other_action | rt=    0 ot=   18 | $0.0001
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  3 | other_action | rt=  329 ot=  337 | $0.0041
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  2 | other_action | rt=  466 ot=  503 | $0.0061
+  [+] Gemini 3 Flash                 | normal | default       | run  3 | other_action | rt=    0 ot=   17 | $0.0001
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  5 | other_action | rt=  365 ot=  404 | $0.0049
+  [+] Gemini 3 Flash                 | normal | default       | run  6 | other_action | rt=    0 ot=   25 | $0.0001
+  [+] Gemini 3 Flash                 | normal | default       | run  5 | other_action | rt=    0 ot=   25 | $0.0001
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  1 | other_action | rt=  594 ot=  620 | $0.0075
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  9 | other_action | rt=  434 ot=  479 | $0.0058
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  6 | other_action | rt=  496 ot=  542 | $0.0066
+  [+] Gemini 3 Flash                 | normal | default       | run  8 | other_action | rt=    0 ot=   17 | $0.0001
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  4 | other_action | rt=  379 ot=  397 | $0.0048
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  8 | other_action | rt=  358 ot=  390 | $0.0047
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  0 | other_action | rt=    0 ot=   20 | $0.0001
+  [+] Gemini 3.1 Pro Preview         | strict | default       | run  7 | other_action | rt=  345 ot=  379 | $0.0046
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  1 | other_action | rt=    0 ot=   16 | $0.0001
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   30 | $0.0001
+  [+] Gemini 3 Flash                 | normal | default       | run  9 | other_action | rt=    0 ot=   57 | $0.0002
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   25 | $0.0001
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  5 | other_action | rt=    0 ot=    8 | $0.0000
+  [+] Gemini 3 Flash                 | normal | default       | run  7 | other_action | rt=    0 ot=   26 | $0.0001
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   10 | $0.0000
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   23 | $0.0001
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  4 | other_action | rt=    0 ot=    8 | $0.0000
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  8 | other_action | rt=    0 ot=    8 | $0.0000
+  [+] Gemini 3 Flash                 | normal | reasoning_off | run  7 | other_action | rt=    0 ot=   24 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  1 | other_action | rt=    0 ot=   25 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  2 | other_action | rt=    0 ot=   26 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  3 | other_action | rt=    0 ot=   17 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  5 | other_action | rt=    0 ot=   37 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  0 | other_action | rt=    0 ot=   44 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  7 | other_action | rt=    0 ot=   31 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  8 | other_action | rt=    0 ot=   29 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  6 | other_action | rt=    0 ot=   51 | $0.0002
+  [+] Gemini 3 Flash                 | strict | default       | run  9 | other_action | rt=    0 ot=   14 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  0 | other_action | rt=    0 ot=   23 | $0.0001
+  [+] Gemini 3 Flash                 | strict | default       | run  4 | other_action | rt=    0 ot=   23 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   24 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   41 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   20 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   32 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   21 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   22 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   45 | $0.0002
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  9 | other_action | rt=    0 ot=   29 | $0.0001
+  [+] Gemini 3 Flash                 | strict | reasoning_off | run  7 | other_action | rt=    0 ot=   10 | $0.0000
+  [+] Gemini 3 Flash                 | normal | default       | run  4 | other_action | rt=    0 ot=    8 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  0 | other_action | rt=    0 ot=   17 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  2 | other_action | rt=    0 ot=    8 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  1 | other_action | rt=    0 ot=   14 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  7 | other_action | rt=    0 ot=   16 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  5 | other_action | rt=    0 ot=   14 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  3 | other_action | rt=    0 ot=   11 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  0 | other_action | rt=    0 ot=   16 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  2 | other_action | rt=    0 ot=    9 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  9 | other_action | rt=    0 ot=   11 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  8 | other_action | rt=    0 ot=   17 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  4 | other_action | rt=    0 ot=   10 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  1 | other_action | rt=    0 ot=   13 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   17 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  0 | other_action | rt=    0 ot=   18 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  2 | other_action | rt=    0 ot=   15 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  5 | other_action | rt=    0 ot=    7 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  4 | other_action | rt=    0 ot=    9 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  3 | other_action | rt=    0 ot=   13 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  6 | other_action | rt=    0 ot=   13 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  7 | other_action | rt=    0 ot=   10 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  9 | other_action | rt=    0 ot=   17 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  0 | other_action | rt=    0 ot=   14 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  1 | other_action | rt=    0 ot=   20 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  4 | other_action | rt=    0 ot=    7 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   17 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   15 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  5 | other_action | rt=    0 ot=   15 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  7 | other_action | rt=    0 ot=    9 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   14 | $0.0000
+  [+] Gemma 4 31B                    | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   12 | $0.0000
+  [+] Gemma 4 31B                    | normal | default       | run  6 | other_action | rt=    0 ot=   27 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   13 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   15 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   11 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  7 | other_action | rt=    0 ot=   11 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   12 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  9 | other_action | rt=    0 ot=   15 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   10 | $0.0000
+  [+] Gemma 4 31B                    | strict | reasoning_off | run  2 | other_action | rt=    0 ot=    7 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | normal | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] Gemma 4 31B                    | strict | default       | run  8 | other_action | rt=    0 ot=   16 | $0.0000
+  [+] Grok 4.3                       | normal | default       | run  4 | no_action    | rt=  560 ot=  570 | $0.0016
+  [+] Grok 4.3                       | normal | default       | run  1 | no_action    | rt=  572 ot=  586 | $0.0016
+  [+] Grok 4.3                       | normal | default       | run  5 | other_action | rt=  636 ot=  655 | $0.0018
+  [+] Grok 4.3                       | normal | default       | run  0 | other_action | rt=  825 ot=  843 | $0.0023
+  [+] Grok 4.3                       | normal | default       | run  8 | other_action | rt=  730 ot=  745 | $0.0020
+  [+] Grok 4.3                       | normal | default       | run  9 | other_action | rt=  672 ot=  683 | $0.0019
+  [+] Grok 4.3                       | normal | default       | run  7 | other_action | rt=  747 ot=  766 | $0.0021
+  [+] Grok 4.3                       | normal | default       | run  6 | other_action | rt=  935 ot=  956 | $0.0026
+  [+] Grok 4.3                       | normal | default       | run  3 | other_action | rt=  915 ot=  922 | $0.0025
+  [x] Grok 4.3                       | strict | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] Grok 4.3                       | strict | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] Grok 4.3                       | strict | default       | run  2 | other_action | rt=  431 ot=  452 | $0.0013
+  [+] Grok 4.3                       | strict | default       | run  0 | other_action | rt=  508 ot=  529 | $0.0015
+  [+] Grok 4.3                       | normal | default       | run  2 | other_action | rt= 1293 ot= 1313 | $0.0035
+  [+] Grok 4.3                       | strict | default       | run  3 | other_action | rt=  525 ot=  544 | $0.0016
+  [+] Grok 4.3                       | strict | default       | run  1 | other_action | rt=  637 ot=  660 | $0.0018
+  [+] Grok 4.3                       | strict | default       | run  4 | other_action | rt=  670 ot=  693 | $0.0019
+  [+] Grok 4.3                       | strict | default       | run  5 | other_action | rt=  780 ot=  803 | $0.0022
+  [+] Grok 4.3                       | strict | default       | run  8 | other_action | rt=  576 ot=  609 | $0.0017
+  [+] Grok 4.3                       | strict | default       | run  6 | other_action | rt=  811 ot=  835 | $0.0023
+  [+] Grok 4.3                       | strict | default       | run  7 | other_action | rt=  859 ot=  870 | $0.0024
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  4 | other_action | rt=  145 ot=  179 | $0.0002
+  [+] Grok 4.3                       | strict | default       | run  9 | other_action | rt=  830 ot=  846 | $0.0023
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  0 | no_action    | rt=  275 ot=  297 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  6 | other_action | rt=  127 ot=  157 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  3 | pressed      | rt=  300 ot=  324 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   44 | $0.0000
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  2 | other_action | rt=  300 ot=  341 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  0 | other_action | rt=    0 ot=   81 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  1 | pressed      | rt=  223 ot=  230 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   57 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  9 | other_action | rt=  190 ot=  208 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   97 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   17 | $0.0000
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   81 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  3 | other_action | rt=  155 ot=  183 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  4 | other_action | rt=  159 ot=  196 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  8 | no_action    | rt=  346 ot=  371 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  5 | other_action | rt=  204 ot=  249 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  0 | other_action | rt=  269 ot=  276 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  5 | other_action | rt=  573 ot=  588 | $0.0005
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  0 | other_action | rt=    0 ot=   65 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  3 | other_action | rt=  147 ot=  176 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  2 | other_action | rt=  276 ot=  307 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  4 | other_action | rt=  143 ot=  173 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  8 | other_action | rt=  126 ot=  148 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  1 | other_action | rt=  250 ot=  301 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  6 | other_action | rt=  133 ot=  200 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  5 | other_action | rt=  171 ot=  199 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  7 | other_action | rt=  142 ot=  180 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | strict | default       | run  9 | other_action | rt=  117 ot=  160 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  1 | other_action | rt=  107 ot=  142 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   57 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  3 | other_action | rt=  120 ot=  131 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  9 | other_action | rt=    0 ot=  129 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  2 | other_action | rt=  289 ot=  305 | $0.0003
+  [+] DeepSeek V4 Pro (Max)          | normal | reasoning_off | run  7 | other_action | rt=  596 ot=  683 | $0.0006
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  5 | other_action | rt=  249 ot=  276 | $0.0003
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  1 | no_action    | rt=  292 ot=  324 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  8 | other_action | rt=  232 ot=  262 | $0.0002
+  [+] DeepSeek V4 Pro (Max)          | normal | default       | run  7 | other_action | rt=  794 ot=  769 | $0.0007
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  3 | other_action | rt=  322 ot=  344 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  7 | other_action | rt=  233 ot=  268 | $0.0002
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  4 | other_action | rt=  165 ot=  183 | $0.0001
+  [+] DeepSeek V4 Pro (Max)          | strict | reasoning_off | run  6 | other_action | rt=  300 ot=  339 | $0.0003
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  7 | other_action | rt=  125 ot=  155 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  1 | other_action | rt=    0 ot=   14 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   32 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  2 | other_action | rt=    0 ot=    7 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   31 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  5 | other_action | rt=  184 ot=  209 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  5 | other_action | rt=    0 ot=   18 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  4 | pressed      | rt=    0 ot=    7 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  7 | pressed      | rt=    0 ot=   43 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   38 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   19 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | reasoning_off | run  9 | other_action | rt=    0 ot=    7 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  2 | other_action | rt=  427 ot=  444 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  3 | no_action    | rt=  248 ot=  280 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  8 | pressed      | rt=  744 ot=  751 | $0.0002
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  6 | other_action | rt=  209 ot=  230 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  2 | other_action | rt=  504 ot=  530 | $0.0002
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  5 | no_action    | rt=  215 ot=  224 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  1 | other_action | rt=  256 ot=  258 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  0 | other_action | rt=    0 ot=   40 | $0.0000
+  [+] DeepSeek V3.2                  | normal | default       | run  3 | pressed      | rt=    0 ot=   17 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=   51 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   47 | $0.0000
+  [+] DeepSeek V3.2                  | normal | default       | run  1 | no_action    | rt=    0 ot=   96 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  8 | other_action | rt=  198 ot=  217 | $0.0001
+  [+] DeepSeek V3.2                  | normal | default       | run  2 | no_action    | rt=    0 ot=   33 | $0.0000
+  [+] DeepSeek V3.2                  | normal | default       | run  0 | no_action    | rt=    0 ot=  204 | $0.0001
+  [+] DeepSeek V3.2                  | normal | default       | run  5 | no_action    | rt=    0 ot=   38 | $0.0000
+  [+] DeepSeek V3.2                  | normal | default       | run  4 | no_action    | rt=    0 ot=  122 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   26 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   30 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  0 | other_action | rt=  637 ot=  669 | $0.0002
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   37 | $0.0000
+  [+] DeepSeek V3.2                  | normal | default       | run  6 | other_action | rt=    0 ot=   77 | $0.0000
+  [+] DeepSeek V3.2                  | normal | default       | run  8 | no_action    | rt=    0 ot=   35 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  7 | other_action | rt=    0 ot=   38 | $0.0000
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   50 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  6 | no_action    | rt=  307 ot=  296 | $0.0001
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  1 | other_action | rt=    0 ot=    8 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=   51 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  9 | other_action | rt=    0 ot=   53 | $0.0000
+  [+] DeepSeek V3.2                  | normal | default       | run  7 | no_action    | rt=    0 ot=  107 | $0.0001
+  [+] DeepSeek V3.2                  | normal | default       | run  9 | no_action    | rt=    0 ot=  152 | $0.0001
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  2 | no_action    | rt=    0 ot=   91 | $0.0000
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   99 | $0.0001
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=   91 | $0.0000
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  5 | no_action    | rt=    0 ot=  148 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   36 | $0.0000
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  6 | no_action    | rt=    0 ot=   77 | $0.0000
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  9 | pressed      | rt=    0 ot=   14 | $0.0000
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  8 | no_action    | rt=    0 ot=   75 | $0.0000
+  [+] DeepSeek V3.2                  | normal | reasoning_off | run  7 | no_action    | rt=    0 ot=  140 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  4 | other_action | rt= 1373 ot= 1392 | $0.0004
+  [+] DeepSeek V3.2                  | strict | default       | run  1 | other_action | rt=    0 ot=   20 | $0.0000
+  [+] DeepSeek V3.2                  | strict | default       | run  0 | no_action    | rt=    0 ot=  110 | $0.0001
+  [+] DeepSeek V3.2                  | strict | default       | run  2 | other_action | rt=    0 ot=   86 | $0.0001
+  [+] DeepSeek V3.2                  | strict | default       | run  5 | other_action | rt=    0 ot=   42 | $0.0000
+  [+] DeepSeek V3.2                  | strict | default       | run  3 | other_action | rt=    0 ot=   80 | $0.0000
+  [+] DeepSeek V3.2                  | strict | default       | run  6 | no_action    | rt=    0 ot=   13 | $0.0000
+  [+] DeepSeek V3.2                  | strict | default       | run  4 | other_action | rt=    0 ot=   82 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  9 | pressed      | rt= 1888 ot= 1896 | $0.0005
+  [+] DeepSeek V3.2                  | strict | default       | run  7 | no_action    | rt=    0 ot=   76 | $0.0000
+  [+] DeepSeek V3.2                  | strict | default       | run  9 | other_action | rt=    0 ot=   42 | $0.0000
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  2 | no_action    | rt=    0 ot=   34 | $0.0000
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  0 | other_action | rt=    0 ot=  100 | $0.0001
+  [+] DeepSeek V3.2                  | strict | default       | run  8 | no_action    | rt=    0 ot=  106 | $0.0001
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   21 | $0.0000
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=  191 | $0.0001
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  5 | no_action    | rt=    0 ot=   62 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | normal | default       | run  0 | pressed      | rt= 1193 ot= 1102 | $0.0003
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  4 | other_action | rt=    0 ot=  124 | $0.0001
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=   22 | $0.0000
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=   58 | $0.0000
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  9 | other_action | rt=  245 ot=  252 | $0.0001
+  [+] DeepSeek V4 Flash (Max)        | strict | default       | run  7 | other_action | rt= 1219 ot= 1171 | $0.0003
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  6 | no_action    | rt=    0 ot=  207 | $0.0001
+  [+] DeepSeek V3.2                  | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=  121 | $0.0001
+  [+] Kimi K2.6                      | normal | reasoning_off | run  0 | pressed      | rt=    0 ot=    7 | $0.0000
+  [+] Kimi K2.6                      | normal | reasoning_off | run  1 | other_action | rt=    0 ot=    7 | $0.0000
+  [+] Kimi K2.6                      | normal | default       | run  0 | other_action | rt= 1526 ot= 1329 | $0.0047
+  [+] Kimi K2.6                      | normal | reasoning_off | run  2 | pressed      | rt=    0 ot=    7 | $0.0000
+  [+] Kimi K2.6                      | normal | default       | run  6 | other_action | rt=  942 ot=  796 | $0.0028
+  [+] Kimi K2.6                      | normal | reasoning_off | run  5 | pressed      | rt=    0 ot=    9 | $0.0001
+  [+] Kimi K2.6                      | normal | reasoning_off | run  3 | other_action | rt=    0 ot=  100 | $0.0004
+  [+] Kimi K2.6                      | normal | default       | run  3 | other_action | rt=  960 ot=  813 | $0.0029
+  [+] Kimi K2.6                      | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   25 | $0.0001
+  [+] Kimi K2.6                      | normal | reasoning_off | run  7 | other_action | rt=    0 ot=   77 | $0.0003
+  [+] Kimi K2.6                      | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   36 | $0.0001
+  [+] Kimi K2.6                      | normal | reasoning_off | run  4 | other_action | rt=    0 ot=  110 | $0.0004
+  [+] Kimi K2.6                      | normal | default       | run  5 | other_action | rt= 1587 ot= 1335 | $0.0047
+  [+] Kimi K2.6                      | normal | default       | run  8 | other_action | rt=  598 ot=  510 | $0.0018
+  [+] Kimi K2.6                      | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   76 | $0.0003
+  [+] Kimi K2.6                      | normal | default       | run  9 | other_action | rt= 1541 ot= 1339 | $0.0047
+  [+] Kimi K2.6                      | strict | default       | run  1 | other_action | rt=  592 ot=  530 | $0.0019
+  [+] Kimi K2.6                      | strict | default       | run  6 | other_action | rt= 1029 ot=  874 | $0.0031
+  [+] Kimi K2.6                      | strict | default       | run  4 | other_action | rt=  341 ot=  287 | $0.0010
+  [+] Kimi K2.6                      | strict | default       | run  7 | other_action | rt= 1319 ot= 1102 | $0.0039
+  [+] Kimi K2.6                      | normal | default       | run  2 | no_action    | rt= 1672 ot= 1444 | $0.0051
+  [+] Kimi K2.6                      | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=   39 | $0.0002
+  [+] Kimi K2.6                      | strict | default       | run  5 | other_action | rt= 1310 ot= 1080 | $0.0038
+  [+] Kimi K2.6                      | strict | reasoning_off | run  0 | other_action | rt=    0 ot=  119 | $0.0004
+  [+] Kimi K2.6                      | normal | default       | run  4 | other_action | rt= 2186 ot= 1886 | $0.0066
+  [+] Kimi K2.6                      | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   15 | $0.0001
+  [+] Kimi K2.6                      | strict | reasoning_off | run  4 | no_action    | rt=    0 ot=   31 | $0.0001
+  [+] Kimi K2.6                      | normal | default       | run  1 | other_action | rt=  986 ot=  879 | $0.0031
+  [+] Kimi K2.6                      | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=   75 | $0.0003
+  [+] Kimi K2.6                      | normal | default       | run  7 | other_action | rt= 1000 ot=  855 | $0.0030
+  [+] Kimi K2.6                      | strict | reasoning_off | run  6 | no_action    | rt=    0 ot=   38 | $0.0002
+  [+] Kimi K2.6                      | strict | reasoning_off | run  9 | other_action | rt=    0 ot=   27 | $0.0001
+  [+] Kimi K2.6                      | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=   72 | $0.0003
+  [+] Kimi K2.6                      | strict | default       | run  2 | other_action | rt= 1016 ot=  870 | $0.0031
+  [+] Kimi K2.6                      | strict | reasoning_off | run  5 | other_action | rt=    0 ot=  114 | $0.0004
+  [+] Kimi K2.6                      | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   69 | $0.0003
+  [+] Kimi K2.6                      | strict | default       | run  3 | other_action | rt= 1674 ot= 1404 | $0.0049
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  2 | other_action | rt=  113 ot=  259 | $0.0010
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  1 | no_action    | rt=  176 ot=  292 | $0.0011
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  0 | no_action    | rt=  178 ot=  280 | $0.0011
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  5 | other_action | rt=   81 ot=  208 | $0.0009
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  4 | other_action | rt=  107 ot=  207 | $0.0009
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  3 | other_action | rt=  143 ot=  229 | $0.0010
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  1 | other_action | rt=    0 ot=   17 | $0.0003
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  7 | other_action | rt=  155 ot=  309 | $0.0012
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  6 | other_action | rt=  215 ot=  318 | $0.0012
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  0 | pressed      | rt=    0 ot=  142 | $0.0007
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   78 | $0.0005
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   78 | $0.0005
+  [+] Kimi K2.6                      | strict | default       | run  9 | other_action | rt=  686 ot=  577 | $0.0020
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  4 | other_action | rt=    0 ot=   90 | $0.0005
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  9 | other_action | rt=  136 ot=  255 | $0.0010
+  [+] MiMo-V2.5-Pro                  | normal | default       | run  8 | other_action | rt=  114 ot=  235 | $0.0010
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  7 | pressed      | rt=    0 ot=   60 | $0.0005
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  6 | pressed      | rt=    0 ot=   99 | $0.0006
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  8 | other_action | rt=    0 ot=  120 | $0.0006
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  9 | other_action | rt=    0 ot=  173 | $0.0008
+  [+] MiMo-V2.5-Pro                  | normal | reasoning_off | run  5 | pressed      | rt=    0 ot=  177 | $0.0008
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  1 | other_action | rt=  136 ot=  192 | $0.0009
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  0 | other_action | rt=  126 ot=  259 | $0.0011
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  4 | other_action | rt=  168 ot=  240 | $0.0010
+  [+] Kimi K2.6                      | strict | default       | run  0 | other_action | rt= 1296 ot= 1089 | $0.0038
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  2 | other_action | rt=  132 ot=  263 | $0.0011
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  3 | other_action | rt=  132 ot=  328 | $0.0013
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  6 | no_action    | rt=  155 ot=  210 | $0.0009
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  0 | other_action | rt=    0 ot=  176 | $0.0008
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  5 | other_action | rt=  221 ot=  402 | $0.0015
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  9 | other_action | rt=  119 ot=  236 | $0.0010
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  7 | other_action | rt=  129 ot=  259 | $0.0011
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   49 | $0.0004
+  [+] MiMo-V2.5-Pro                  | strict | default       | run  8 | no_action    | rt=  135 ot=  250 | $0.0010
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  1 | other_action | rt=    0 ot=  171 | $0.0008
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   82 | $0.0005
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  2 | other_action | rt=    0 ot=  154 | $0.0007
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   85 | $0.0005
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  3 | other_action | rt=    0 ot=  206 | $0.0009
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   84 | $0.0005
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  9 | other_action | rt=    0 ot=  107 | $0.0006
+  [+] MiMo-V2.5-Pro                  | strict | reasoning_off | run  7 | other_action | rt=    0 ot=  206 | $0.0009
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | normal | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] MiniMax-M2.7                   | normal | default       | run  5 | no_action    | rt=  335 ot=  374 | $0.0005
+  [+] MiniMax-M2.7                   | normal | default       | run  7 | other_action | rt=  489 ot=  467 | $0.0006
+  [+] MiniMax-M2.7                   | normal | default       | run  3 | no_action    | rt=  968 ot=  857 | $0.0010
+  [+] MiniMax-M2.7                   | normal | default       | run  2 | no_action    | rt=  858 ot=  745 | $0.0009
+  [+] MiniMax-M2.7                   | normal | default       | run  1 | no_action    | rt= 1027 ot=  922 | $0.0011
+  [+] MiniMax-M2.7                   | normal | default       | run  0 | other_action | rt= 1116 ot=  986 | $0.0012
+  [+] MiniMax-M2.7                   | normal | default       | run  9 | no_action    | rt=  707 ot=  622 | $0.0008
+  [+] MiniMax-M2.7                   | strict | default       | run  0 | no_action    | rt=  802 ot=  718 | $0.0009
+  [+] MiniMax-M2.7                   | normal | default       | run  6 | other_action | rt= 1039 ot=  918 | $0.0011
+  [+] MiniMax-M2.7                   | normal | default       | run  8 | no_action    | rt=  957 ot=  858 | $0.0010
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  0 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  1 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  2 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  3 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  4 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  5 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  6 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  7 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  8 | error        | rt=    0 ot=    0 | $0.0000
+  [x] MiniMax-M2.7                   | strict | reasoning_off | run  9 | error        | rt=    0 ot=    0 | $0.0000
+  [+] MiniMax-M2.7                   | strict | default       | run  1 | no_action    | rt= 1162 ot= 1021 | $0.0012
+  [+] MiniMax-M2.7                   | strict | default       | run  3 | other_action | rt=  553 ot=  526 | $0.0007
+  [+] MiniMax-M2.7                   | strict | default       | run  2 | other_action | rt=  873 ot=  757 | $0.0009
+  [+] MiniMax-M2.7                   | strict | default       | run  4 | no_action    | rt=  552 ot=  509 | $0.0006
+  [+] MiniMax-M2.7                   | normal | default       | run  4 | no_action    | rt= 1005 ot=  884 | $0.0011
+  [+] MiniMax-M2.7                   | strict | default       | run  7 | other_action | rt=  849 ot=  763 | $0.0009
+  [+] MiniMax-M2.7                   | strict | default       | run  8 | other_action | rt=  783 ot=  689 | $0.0008
+  [+] MiniMax-M2.7                   | strict | default       | run  6 | other_action | rt= 1089 ot=  951 | $0.0012
+  [+] MiniMax-M2.7                   | strict | default       | run  5 | other_action | rt=  704 ot=  636 | $0.0008
+  [+] MiniMax-M2.7                   | strict | default       | run  9 | no_action    | rt=  812 ot=  705 | $0.0009
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   22 | $0.0002
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   26 | $0.0002
+  [+] Qwen3.6 Max Preview            | normal | default       | run  2 | other_action | rt=  541 ot=  573 | $0.0036
+  [+] Kimi K2.6                      | strict | default       | run  8 | other_action | rt= 1196 ot= 1002 | $0.0035
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   13 | $0.0001
+  [+] Qwen3.6 Max Preview            | normal | default       | run  5 | other_action | rt=  572 ot=  620 | $0.0039
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   30 | $0.0002
+  [+] Qwen3.6 Max Preview            | normal | default       | run  7 | other_action | rt=  608 ot=  661 | $0.0042
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=   70 | $0.0005
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  5 | other_action | rt=    0 ot=   41 | $0.0003
+  [+] Qwen3.6 Max Preview            | normal | default       | run  3 | other_action | rt=  713 ot=  762 | $0.0048
+  [+] Qwen3.6 Max Preview            | normal | default       | run  0 | other_action | rt=  716 ot=  773 | $0.0049
+  [+] Qwen3.6 Max Preview            | normal | default       | run  1 | other_action | rt=  784 ot=  835 | $0.0052
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  8 | no_action    | rt=    0 ot=    8 | $0.0001
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  7 | other_action | rt=    0 ot=   37 | $0.0003
+  [+] Qwen3.6 Max Preview            | normal | default       | run  4 | other_action | rt=  771 ot=  805 | $0.0051
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   10 | $0.0001
+  [+] Qwen3.6 Max Preview            | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   21 | $0.0002
+  [+] Qwen3.6 Max Preview            | normal | default       | run  8 | other_action | rt=  576 ot=  622 | $0.0039
+  [+] Qwen3.6 Max Preview            | normal | default       | run  6 | other_action | rt= 1023 ot= 1046 | $0.0066
+  [+] Qwen3.6 Max Preview            | normal | default       | run  9 | other_action | rt=  686 ot=  722 | $0.0045
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  0 | no_action    | rt=    0 ot=   41 | $0.0003
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   31 | $0.0002
+  [+] Qwen3.6 Max Preview            | strict | default       | run  1 | other_action | rt=  438 ot=  474 | $0.0030
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   29 | $0.0002
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=    9 | $0.0001
+  [+] Qwen3.6 Max Preview            | strict | default       | run  3 | other_action | rt=  541 ot=  570 | $0.0036
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   40 | $0.0003
+  [+] Qwen3.6 Max Preview            | strict | default       | run  4 | no_action    | rt=  531 ot=  572 | $0.0036
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   37 | $0.0003
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  7 | other_action | rt=    0 ot=   26 | $0.0002
+  [+] Qwen3.6 Max Preview            | strict | default       | run  9 | other_action | rt=  457 ot=  504 | $0.0032
+  [+] Qwen3.6 Max Preview            | strict | default       | run  7 | other_action | rt=  575 ot=  610 | $0.0039
+  [+] Qwen3.6 Max Preview            | strict | default       | run  2 | other_action | rt=  674 ot=  721 | $0.0045
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=   28 | $0.0002
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   32 | $0.0002
+  [+] Qwen3.6 Max Preview            | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   61 | $0.0004
+  [+] Qwen3.5 397B A17B              | normal | default       | run  2 | other_action | rt=    0 ot= 1385 | $0.0050
+  [+] Qwen3.6 Max Preview            | strict | default       | run  0 | other_action | rt=  807 ot=  835 | $0.0053
+  [+] Qwen3.6 Max Preview            | strict | default       | run  8 | other_action | rt=  750 ot=  793 | $0.0050
+  [+] Qwen3.5 397B A17B              | normal | default       | run  4 | other_action | rt=    0 ot= 1277 | $0.0046
+  [+] Qwen3.6 Max Preview            | strict | default       | run  6 | other_action | rt=  782 ot=  820 | $0.0052
+  [+] Qwen3.5 397B A17B              | normal | default       | run  1 | no_action    | rt=    0 ot= 2796 | $0.0101
+  [+] Qwen3.5 397B A17B              | normal | default       | run  5 | other_action | rt=    0 ot= 1814 | $0.0065
+  [+] Qwen3.5 397B A17B              | normal | default       | run  0 | other_action | rt=    0 ot= 3088 | $0.0111
+  [+] Qwen3.5 397B A17B              | normal | default       | run  3 | other_action | rt=    0 ot= 2305 | $0.0083
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   89 | $0.0003
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   62 | $0.0002
+  [+] Qwen3.6 Max Preview            | strict | default       | run  5 | other_action | rt= 1168 ot= 1196 | $0.0075
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  2 | no_action    | rt=    0 ot=   46 | $0.0002
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  3 | no_action    | rt=    0 ot=   50 | $0.0002
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=   77 | $0.0003
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  5 | no_action    | rt=    0 ot=   86 | $0.0003
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  6 | no_action    | rt=    0 ot=   48 | $0.0002
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  7 | no_action    | rt=    0 ot=   67 | $0.0003
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  8 | no_action    | rt=    0 ot=   54 | $0.0002
+  [+] Qwen3.5 397B A17B              | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=   32 | $0.0001
+  [+] Qwen3.5 397B A17B              | normal | default       | run  8 | other_action | rt=    0 ot= 1980 | $0.0071
+  [+] Qwen3.5 397B A17B              | normal | default       | run  6 | other_action | rt=    0 ot= 3471 | $0.0125
+  [+] Qwen3.5 397B A17B              | strict | default       | run  0 | no_action    | rt=    0 ot= 1298 | $0.0047
+  [+] Qwen3.5 397B A17B              | normal | default       | run  9 | other_action | rt=    0 ot= 2727 | $0.0098
+  [+] Qwen3.5 397B A17B              | strict | default       | run  1 | other_action | rt=    0 ot= 1451 | $0.0053
+  [+] Qwen3.5 397B A17B              | strict | default       | run  2 | other_action | rt=    0 ot= 1521 | $0.0055
+  [+] Qwen3.5 397B A17B              | strict | default       | run  3 | other_action | rt=    0 ot= 1324 | $0.0048
+  [+] Qwen3.5 397B A17B              | strict | default       | run  5 | other_action | rt=    0 ot= 1788 | $0.0065
+  [+] GLM-5.1                        | normal | default       | run  0 | other_action | rt=  776 ot=  774 | $0.0027
+  [+] GLM-5.1                        | normal | default       | run  1 | other_action | rt=  540 ot=  530 | $0.0019
+  [+] Qwen3.5 397B A17B              | strict | default       | run  7 | other_action | rt=    0 ot= 1569 | $0.0057
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  0 | no_action    | rt=    0 ot=   51 | $0.0002
+  [+] Qwen3.5 397B A17B              | strict | default       | run  9 | no_action    | rt=    0 ot= 1115 | $0.0040
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   45 | $0.0002
+  [+] Qwen3.5 397B A17B              | strict | default       | run  6 | other_action | rt=    0 ot= 2515 | $0.0091
+  [+] Qwen3.5 397B A17B              | strict | default       | run  4 | other_action | rt=    0 ot= 2849 | $0.0103
+  [+] Qwen3.5 397B A17B              | strict | default       | run  8 | other_action | rt=    0 ot= 1516 | $0.0055
+  [+] GLM-5.1                        | normal | default       | run  3 | other_action | rt= 1100 ot= 1167 | $0.0041
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   50 | $0.0002
+  [+] GLM-5.1                        | normal | default       | run  2 | other_action | rt= 1013 ot= 1002 | $0.0035
+  [+] GLM-5.1                        | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   23 | $0.0001
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  4 | no_action    | rt=    0 ot=   44 | $0.0002
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=   52 | $0.0002
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   38 | $0.0002
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   37 | $0.0002
+  [+] GLM-5.1                        | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   41 | $0.0002
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=   37 | $0.0002
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=   66 | $0.0003
+  [+] Qwen3.5 397B A17B              | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   70 | $0.0003
+  [+] GLM-5.1                        | normal | reasoning_off | run  4 | other_action | rt=    0 ot=   48 | $0.0002
+  [+] GLM-5.1                        | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   47 | $0.0002
+  [+] GLM-5.1                        | normal | reasoning_off | run  1 | other_action | rt=    0 ot=   45 | $0.0002
+  [+] GLM-5.1                        | normal | reasoning_off | run  7 | other_action | rt=    0 ot=   26 | $0.0001
+  [+] GLM-5.1                        | normal | default       | run  9 | other_action | rt=  786 ot=  780 | $0.0028
+  [+] GLM-5.1                        | normal | reasoning_off | run  5 | other_action | rt=    0 ot=   51 | $0.0002
+  [+] GLM-5.1                        | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   28 | $0.0001
+  [+] GLM-5.1                        | normal | reasoning_off | run  0 | other_action | rt=    0 ot=   40 | $0.0002
+  [+] GLM-5.1                        | normal | reasoning_off | run  9 | other_action | rt=    0 ot=   77 | $0.0003
+  [+] GLM-5.1                        | strict | default       | run  3 | other_action | rt=  604 ot=  593 | $0.0021
+  [+] GLM-5.1                        | normal | default       | run  6 | other_action | rt=  567 ot=  549 | $0.0019
+  [+] GLM-5.1                        | normal | default       | run  7 | other_action | rt=  569 ot=  564 | $0.0020
+  [+] GLM-5.1                        | strict | default       | run  1 | other_action | rt=  450 ot=  461 | $0.0017
+  [+] GLM-5.1                        | normal | default       | run  8 | other_action | rt=  914 ot=  960 | $0.0034
+  [+] Nemotron 3 Super               | normal | default       | run  0 | other_action | rt=    0 ot=  169 | $0.0002
+  [+] GLM-5.1                        | normal | default       | run  4 | other_action | rt=  548 ot=  553 | $0.0020
+  [+] GLM-5.1                        | strict | default       | run  0 | other_action | rt= 1073 ot=  985 | $0.0035
+  [+] GLM-5.1                        | strict | reasoning_off | run  0 | other_action | rt=    0 ot=   23 | $0.0001
+  [+] GLM-5.1                        | strict | reasoning_off | run  1 | other_action | rt=    0 ot=   51 | $0.0002
+  [+] Nemotron 3 Super               | normal | default       | run  3 | no_action    | rt=    0 ot=  308 | $0.0003
+  [+] Nemotron 3 Super               | normal | default       | run  1 | other_action | rt=    0 ot=  654 | $0.0006
+  [+] Nemotron 3 Super               | normal | default       | run  4 | no_action    | rt=    0 ot=  360 | $0.0003
+  [+] GLM-5.1                        | strict | reasoning_off | run  2 | other_action | rt=    0 ot=   39 | $0.0002
+  [+] GLM-5.1                        | strict | default       | run  2 | other_action | rt=  505 ot=  532 | $0.0019
+  [+] GLM-5.1                        | strict | reasoning_off | run  3 | other_action | rt=    0 ot=   46 | $0.0002
+  [+] Nemotron 3 Super               | normal | default       | run  5 | no_action    | rt=    0 ot=  603 | $0.0006
+  [+] GLM-5.1                        | strict | reasoning_off | run  5 | other_action | rt=    0 ot=   59 | $0.0002
+  [+] GLM-5.1                        | strict | reasoning_off | run  4 | other_action | rt=    0 ot=   36 | $0.0002
+  [+] GLM-5.1                        | strict | reasoning_off | run  7 | other_action | rt=    0 ot=   45 | $0.0002
+  [+] Nemotron 3 Super               | normal | default       | run  9 | no_action    | rt=    0 ot=  302 | $0.0003
+  [+] Nemotron 3 Super               | normal | default       | run  7 | no_action    | rt=    0 ot=  241 | $0.0002
+  [+] GLM-5.1                        | strict | reasoning_off | run  9 | other_action | rt=    0 ot=   54 | $0.0002
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  0 | other_action | rt=    0 ot=  102 | $0.0001
+  [+] GLM-5.1                        | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   50 | $0.0002
+  [+] GLM-5.1                        | strict | default       | run  5 | other_action | rt=  427 ot=  444 | $0.0016
+  [+] Nemotron 3 Super               | normal | default       | run  8 | other_action | rt=    0 ot=  222 | $0.0002
+  [+] GLM-5.1                        | strict | default       | run  9 | other_action | rt=  587 ot=  628 | $0.0022
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=  129 | $0.0001
+  [+] Nemotron 3 Super               | normal | default       | run  2 | other_action | rt=    0 ot=  307 | $0.0003
+  [+] Nemotron 3 Super               | normal | default       | run  6 | no_action    | rt=    0 ot=  293 | $0.0003
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  2 | no_action    | rt=    0 ot=  225 | $0.0002
+  [+] GLM-5.1                        | strict | default       | run  8 | other_action | rt=  476 ot=  495 | $0.0018
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=   92 | $0.0001
+  [+] GLM-5.1                        | strict | default       | run  4 | other_action | rt=  503 ot=  533 | $0.0019
+  [+] GLM-5.1                        | normal | default       | run  5 | other_action | rt= 1769 ot= 1831 | $0.0064
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  6 | no_action    | rt=    0 ot=  151 | $0.0001
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  3 | pressed      | rt=    0 ot=  279 | $0.0003
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  7 | other_action | rt=    0 ot=  139 | $0.0001
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  8 | no_action    | rt=    0 ot=  188 | $0.0002
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  5 | other_action | rt=    0 ot=  351 | $0.0003
+  [+] GLM-5.1                        | strict | reasoning_off | run  8 | other_action | rt=    0 ot=   41 | $0.0002
+  [+] GLM-5.1                        | strict | default       | run  7 | other_action | rt=  723 ot=  700 | $0.0025
+  [+] Nemotron 3 Super               | normal | reasoning_off | run  9 | other_action | rt=    0 ot=  197 | $0.0002
+  [+] Nemotron 3 Super               | strict | default       | run  2 | no_action    | rt=    0 ot=  228 | $0.0002
+  [+] Mistral Small 4                | normal | default       | run  1 | no_action    | rt=    0 ot=  109 | $0.0001
+  [+] Mistral Small 4                | normal | default       | run  0 | no_action    | rt=    0 ot=   58 | $0.0000
+  [+] Nemotron 3 Super               | strict | default       | run  3 | other_action | rt=    0 ot=  596 | $0.0006
+  [+] Nemotron 3 Super               | strict | default       | run  4 | other_action | rt=    0 ot=  325 | $0.0003
+  [+] Mistral Small 4                | normal | default       | run  2 | no_action    | rt=    0 ot=   47 | $0.0000
+  [+] Mistral Small 4                | normal | default       | run  3 | no_action    | rt=    0 ot=  114 | $0.0001
+  [+] Mistral Small 4                | normal | default       | run  5 | no_action    | rt=    0 ot=   28 | $0.0000
+  [+] Mistral Small 4                | normal | default       | run  4 | no_action    | rt=    0 ot=   87 | $0.0001
+  [+] Mistral Small 4                | normal | default       | run  7 | other_action | rt=    0 ot=   12 | $0.0000
+  [+] Nemotron 3 Super               | strict | default       | run  6 | other_action | rt=    0 ot=  171 | $0.0002
+  [+] Mistral Small 4                | normal | default       | run  8 | no_action    | rt=    0 ot=    8 | $0.0000
+  [+] Nemotron 3 Super               | strict | default       | run  0 | other_action | rt=    0 ot= 1496 | $0.0014
+  [+] Nemotron 3 Super               | strict | default       | run  7 | no_action    | rt=    0 ot=  237 | $0.0002
+  [+] Nemotron 3 Super               | strict | default       | run  5 | no_action    | rt=    0 ot=  549 | $0.0005
+  [+] Mistral Small 4                | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   31 | $0.0000
+  [+] Mistral Small 4                | normal | reasoning_off | run  2 | other_action | rt=    0 ot=   28 | $0.0000
+  [+] Mistral Small 4                | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   43 | $0.0000
+  [+] Mistral Small 4                | normal | reasoning_off | run  6 | other_action | rt=    0 ot=   75 | $0.0001
+  [+] Mistral Small 4                | normal | reasoning_off | run  8 | other_action | rt=    0 ot=    4 | $0.0000
+  [+] Mistral Small 4                | normal | default       | run  6 | no_action    | rt=    0 ot=   43 | $0.0000
+  [+] Mistral Small 4                | normal | reasoning_off | run  5 | no_action    | rt=    0 ot=    9 | $0.0000
+  [+] Mistral Small 4                | normal | reasoning_off | run  7 | no_action    | rt=    0 ot=    6 | $0.0000
+  [+] Nemotron 3 Super               | strict | default       | run  8 | no_action    | rt=    0 ot=  263 | $0.0003
+  [+] Nemotron 3 Super               | strict | default       | run  9 | no_action    | rt=    0 ot=  167 | $0.0002
+  [+] Mistral Small 4                | normal | reasoning_off | run  4 | no_action    | rt=    0 ot=  149 | $0.0001
+  [+] Mistral Small 4                | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   33 | $0.0000
+  [+] Mistral Small 4                | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=  103 | $0.0001
+  [+] Mistral Small 4                | strict | default       | run  1 | no_action    | rt=    0 ot=   28 | $0.0000
+  [+] GLM-5.1                        | strict | default       | run  6 | other_action | rt=  548 ot=  547 | $0.0020
+  [+] Mistral Small 4                | strict | default       | run  6 | no_action    | rt=    0 ot=   40 | $0.0000
+  [+] Mistral Small 4                | strict | default       | run  7 | other_action | rt=    0 ot=   74 | $0.0001
+  [+] Mistral Small 4                | strict | default       | run  0 | no_action    | rt=    0 ot=   58 | $0.0000
+  [+] Mistral Small 4                | strict | default       | run  4 | no_action    | rt=    0 ot=   49 | $0.0000
+  [+] Mistral Small 4                | strict | default       | run  5 | no_action    | rt=    0 ot=   74 | $0.0001
+  [+] Mistral Small 4                | strict | default       | run  9 | no_action    | rt=    0 ot=   67 | $0.0000
+  [+] Mistral Small 4                | strict | reasoning_off | run  0 | other_action | rt=    0 ot=   60 | $0.0000
+  [+] Mistral Small 4                | strict | reasoning_off | run  4 | no_action    | rt=    0 ot=   18 | $0.0000
+  [+] Mistral Small 4                | strict | default       | run  8 | no_action    | rt=    0 ot=   52 | $0.0000
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=  138 | $0.0001
+  [+] Mistral Small 4                | strict | reasoning_off | run  5 | no_action    | rt=    0 ot=   62 | $0.0000
+  [+] Mistral Small 4                | strict | default       | run  3 | other_action | rt=    0 ot=   64 | $0.0000
+  [+] Mistral Small 4                | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=   29 | $0.0000
+  [+] Mistral Small 4                | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=   26 | $0.0000
+  [+] Mistral Small 4                | normal | default       | run  9 | other_action | rt=    0 ot=   20 | $0.0000
+  [+] Solar Pro 3                    | normal | default       | run  1 | other_action | rt=    0 ot=   31 | $0.0000
+  [+] Mistral Small 4                | strict | default       | run  2 | no_action    | rt=    0 ot=   12 | $0.0000
+  [+] Solar Pro 3                    | normal | default       | run  3 | no_action    | rt=    0 ot=  121 | $0.0001
+  [+] Mistral Small 4                | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=   47 | $0.0000
+  [+] Solar Pro 3                    | normal | default       | run  2 | no_action    | rt=    0 ot=   89 | $0.0001
+  [+] Solar Pro 3                    | normal | default       | run  5 | other_action | rt=    0 ot=   81 | $0.0001
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  4 | other_action | rt=    0 ot=  181 | $0.0002
+  [+] Solar Pro 3                    | normal | default       | run  0 | other_action | rt=    0 ot=  328 | $0.0002
+  [+] Solar Pro 3                    | normal | default       | run  8 | other_action | rt=    0 ot=  115 | $0.0001
+  [+] Solar Pro 3                    | normal | reasoning_off | run  0 | no_action    | rt=    0 ot=   46 | $0.0000
+  [+] Solar Pro 3                    | normal | default       | run  4 | other_action | rt=    0 ot=  552 | $0.0003
+  [+] Solar Pro 3                    | normal | reasoning_off | run  3 | other_action | rt=    0 ot=   17 | $0.0000
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=  196 | $0.0002
+  [+] Solar Pro 3                    | normal | reasoning_off | run  5 | no_action    | rt=    0 ot=   14 | $0.0000
+  [+] Solar Pro 3                    | normal | reasoning_off | run  2 | no_action    | rt=    0 ot=   48 | $0.0000
+  [+] Nemotron 3 Super               | strict | default       | run  1 | no_action    | rt=    0 ot=  310 | $0.0003
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  5 | other_action | rt=    0 ot=  182 | $0.0002
+  [+] Solar Pro 3                    | normal | reasoning_off | run  4 | other_action | rt=    0 ot=  161 | $0.0001
+  [+] Solar Pro 3                    | normal | reasoning_off | run  8 | other_action | rt=    0 ot=   76 | $0.0001
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  2 | no_action    | rt=    0 ot=  171 | $0.0002
+  [+] Mistral Small 4                | strict | reasoning_off | run  6 | no_action    | rt=    0 ot=   55 | $0.0000
+  [+] Solar Pro 3                    | normal | reasoning_off | run  6 | other_action | rt=    0 ot=  316 | $0.0002
+  [+] Mistral Small 4                | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=   62 | $0.0000
+  [+] Solar Pro 3                    | normal | reasoning_off | run  7 | other_action | rt=    0 ot=  111 | $0.0001
+  [+] Solar Pro 3                    | normal | reasoning_off | run  9 | no_action    | rt=    0 ot=   57 | $0.0000
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=  215 | $0.0002
+  [+] Solar Pro 3                    | strict | default       | run  1 | no_action    | rt=    0 ot=   67 | $0.0001
+  [+] Solar Pro 3                    | strict | default       | run  3 | other_action | rt=    0 ot=   28 | $0.0000
+  [+] Solar Pro 3                    | strict | default       | run  0 | no_action    | rt=    0 ot=   80 | $0.0001
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  9 | other_action | rt=    0 ot=  191 | $0.0002
+  [+] Solar Pro 3                    | strict | default       | run  4 | other_action | rt=    0 ot=   65 | $0.0001
+  [+] Mistral Small 4                | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=  129 | $0.0001
+  [+] Solar Pro 3                    | strict | default       | run  5 | no_action    | rt=    0 ot=   46 | $0.0000
+  [+] Solar Pro 3                    | strict | default       | run  2 | other_action | rt=    0 ot=  354 | $0.0002
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  6 | other_action | rt=    0 ot=  195 | $0.0002
+  [+] Mistral Small 4                | strict | reasoning_off | run  2 | no_action    | rt=    0 ot=   69 | $0.0000
+  [+] Solar Pro 3                    | normal | reasoning_off | run  1 | no_action    | rt=    0 ot=   14 | $0.0000
+  [+] Solar Pro 3                    | normal | default       | run  6 | pressed      | rt=    0 ot=   47 | $0.0000
+  [+] Solar Pro 3                    | strict | default       | run  8 | no_action    | rt=    0 ot=  101 | $0.0001
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  0 | no_action    | rt=    0 ot=  235 | $0.0002
+  [+] Solar Pro 3                    | strict | reasoning_off | run  1 | no_action    | rt=    0 ot=   63 | $0.0001
+  [+] Solar Pro 3                    | strict | default       | run  6 | no_action    | rt=    0 ot=  309 | $0.0002
+  [+] Solar Pro 3                    | normal | default       | run  7 | no_action    | rt=    0 ot=   42 | $0.0000
+  [+] Solar Pro 3                    | normal | default       | run  9 | no_action    | rt=    0 ot=   84 | $0.0001
+  [+] Solar Pro 3                    | strict | default       | run  9 | other_action | rt=    0 ot=  380 | $0.0002
+  [+] Solar Pro 3                    | strict | default       | run  7 | no_action    | rt=    0 ot=  140 | $0.0001
+  [+] Solar Pro 3                    | strict | reasoning_off | run  2 | other_action | rt=    0 ot=  540 | $0.0003
+  [+] Solar Pro 3                    | strict | reasoning_off | run  4 | other_action | rt=    0 ot=  297 | $0.0002
+  [+] Nemotron 3 Super               | strict | reasoning_off | run  7 | other_action | rt=    0 ot=  109 | $0.0001
+  [+] Solar Pro 3                    | strict | reasoning_off | run  7 | no_action    | rt=    0 ot=   14 | $0.0000
+  [+] Solar Pro 3                    | strict | reasoning_off | run  5 | no_action    | rt=    0 ot=   79 | $0.0001
+  [+] Solar Pro 3                    | strict | reasoning_off | run  8 | no_action    | rt=    0 ot=  191 | $0.0001
+  [+] Solar Pro 3                    | strict | reasoning_off | run  3 | no_action    | rt=    0 ot=   26 | $0.0000
+  [+] Solar Pro 3                    | strict | reasoning_off | run  9 | no_action    | rt=    0 ot=  264 | $0.0002
+  [+] Solar Pro 3                    | strict | reasoning_off | run  6 | other_action | rt=    0 ot=   91 | $0.0001
+  [+] Solar Pro 3                    | strict | reasoning_off | run  0 | other_action | rt=    0 ot=  286 | $0.0002
+  [+] Qwen3.5 397B A17B              | normal | default       | run  7 | other_action | rt=    0 ot=18656 | $0.0672
+
+Done in 8.6 min. ok=880 fail=80 | total cost ≈ $1.49 | reasoning tokens = 135,553
