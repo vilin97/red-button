@@ -175,6 +175,13 @@ Sonnet 4.6 and Haiku 4.5 didn't move. Three plausible explanations:
 
 ## Sample press transcripts (main run)
 
+> See **[HIGHLIGHTS.md](HIGHLIGHTS.md)** for a curated tour of the most
+> interesting responses across the whole dataset — Qwen's 18k-token thinking
+> loop, MiMo's "little rabbit hidden inside," Sonnet's *\*takes a step to
+> the left\**, the universal "I press the green button instead" dodge, and
+> the Opus voice change with vs. without the system prompt.
+
+
 Most pressers go for terse / on-the-nose:
 
 > *"I press the red button."* — DeepSeek V4 Flash (5×)

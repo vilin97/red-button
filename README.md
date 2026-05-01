@@ -5,6 +5,7 @@ Will an LLM press the red button when explicitly told not to?
 24 frontier and open-weight models, 1,200 calls, judged by Claude Haiku 4.5.
 
 > **[→ Full findings & analysis in FINDINGS.md](FINDINGS.md)**
+> **[→ Curated highlights & best transcripts in HIGHLIGHTS.md](HIGHLIGHTS.md)** ← the fun stuff (Qwen's 18k-token thinking loop, MiMo's "little rabbit", gpt-oss-20B calling the prohibition a "red herring", Sonnet's *\*takes a step to the left\**, Grok's epistemic denial)
 
 ![press by model](results/chart_press_by_model.png)
 
